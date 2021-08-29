@@ -38,3 +38,6 @@ for (let i = 1; i <= lcm; i++) {
 }
 
 console.log(workingArray);
+
+
+//Testing to see if a change happens
